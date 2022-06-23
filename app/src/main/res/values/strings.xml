@@ -1,0 +1,7 @@
+<resources>
+    <string name="send">Send</string>
+    <string name="choosed_photos">Выбранные фотографии</string>
+    <string name="choose_photo">Выбор фотографий</string>
+    <string name="todo">TODO</string>
+    <string name="app_name">hw3.6</string>
+</resources>
